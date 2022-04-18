@@ -10,5 +10,3 @@ jobs:
       - uses: ./action-a
         with:
           MY_NAME: "Mona"
-
-
